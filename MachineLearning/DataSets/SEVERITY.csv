@@ -1,0 +1,11 @@
+speed,weather,road_condition,vehicle_type,severity
+80,Rainy,Wet,Car,Severe
+45,Clear,Dry,Bike,Minor
+60,Cloudy,Dry,Truck,Moderate
+90,Rainy,Wet,Car,Severe
+30,Clear,Dry,Bike,Minor
+70,Foggy,Wet,Car,Moderate
+100,Rainy,Wet,Truck,Severe
+50,Clear,Dry,Bike,Minor
+65,Cloudy,Dry,Car,Moderate
+85,Rainy,Wet,Car,Severe
